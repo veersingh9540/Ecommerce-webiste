@@ -1,0 +1,18 @@
+.Checkout_container{
+    display: flex;
+}
+.Checkout_image_add{
+    width: 100%;
+    
+}
+.Checkout_title{
+    
+    border-bottom: 1px solid grey;
+    background-color: white;
+}
+.subtotal{
+    margin-top: 10px;
+    background-color: rgb(243,237,237);
+    max-height: auto;
+    
+}

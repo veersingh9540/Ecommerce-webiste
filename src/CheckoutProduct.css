@@ -1,0 +1,31 @@
+
+
+.checkoutProduct{
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+    flex-direction: row;
+    align-content: center;
+    margin: 10px 0px;
+    
+}
+.Checkout_info{
+    display: flex;
+    flex-direction: column;
+    
+    margin: 15px 15px;
+    align-items: center;
+   justify-content: center;
+}
+.Checkout_image{
+    width:30%;
+    margin-top: 10px;
+    max-height: 200px;
+    object-fit: contain;
+    margin-bottom: 15px;
+}
+.Checkout_info > button{
+    background-color: #f0c14b;
+    border: 1px solid;
+    border-color: #a88374 #9c7e31 #846a29;
+}
